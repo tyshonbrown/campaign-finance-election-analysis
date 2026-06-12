@@ -1,6 +1,9 @@
-# CMSC320 project
+## Project Note
 
-Tyshon Brown, David Li, Zile Liu, and Samuel Opoku-Agyemang
+This was a group project completed for a Data Science course in Summer 2025.  
+My contributions included data cleaning, exploratory data analysis, visualizations, and model evaluation.
+
+Group Members: Tyshon Brown, David Li, Zile Liu, and Samuel Opoku-Agyemang
 
 GitHub repository: https://github.com/9t8/cmsc320_project
 
