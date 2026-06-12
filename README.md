@@ -1,4 +1,4 @@
-## Project Note
+## Project: index.ipynb is where it is located
 
 This project was completed as a group project for a Data Science course in Summer 2025.
 
